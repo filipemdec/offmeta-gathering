@@ -32,3 +32,7 @@ Open `config.lua` and adjust:
 - Original concept & base: **qb-gathering**
 - Fork & improvements: **OFFMETA**
 
+## 🎬 Demo
+
+🔗 Medal Video 1: https://medal.tv/pt/games/gta-v/clips/kYAD8onWOQRhNQPmn?invite=cr-MSxCZFEsNDM2NzU2NjA3&v=15
+🔗 Medal Video 2: https://medal.tv/pt/games/gta-v/clips/kYAPQmQItpLaOwp1r?invite=cr-MSx1VlYsNDM2NzU2NjA3&v=15
